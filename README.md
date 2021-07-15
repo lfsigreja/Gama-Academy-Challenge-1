@@ -1,4 +1,4 @@
-# Desafio 01 - Criação de uma página de E-commerce
+# Desafio 01 - Criação de um catalogo de produtos.
 
 Somos parte de uma equipe de desenvolvimento de websites e fomos contratados para a criação de um site de catálogo de produtos. Precisamos desenvolver um site responsivo para nosso cliente contemplando as seguintes características:
 
@@ -39,3 +39,5 @@ Histórias:
 
 
 ** As histórias serão entregues de forma sequencial. **
+
+Tecnologias utilizadas: HTML e CSS
