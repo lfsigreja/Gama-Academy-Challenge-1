@@ -18,20 +18,6 @@ REQUISITOS
 
 COMO FAREMOS?
 
-- Definir histórias: 0.25 ponto.
-- Eu, Gama Academy, gostaria de ver o repositório no GitHub: 0.25 ponto.
-- Eu, Gama Academy, gostaria que atividade fosse descrita em sprints no README do projeto: 1 ponto.
-
-ÉPICO:
-- Eu, CLIENTE, gostariade ter um catalogo de produtos para minha empresa de cervejas que seja utilizavel em dispositivos mobile e desktop.
-
-Histórias:
-1. Eu, CLIENTE, gostaria de ter uma home com os meus produtos destacados: 03 pontos
-2. Eu, CLIENTE, gostaria de ter um filtro por tipo de cerveja em minha home: 05 pontos.
-3. Eu, CLIENTE, gostaria de ver mais detalhes de um produto: 03 pontos.
-  ACEITE: fotos, descrição, preço, condições de pagamento
-4. Eu, CLIENTE, gostaria de ter uma página institucional "Quem Somos": 01 pontos.
-
 Sprint 01 (Entrega 01) 1,5 pontos - 01 dia. (15/07)
 
 - Definir histórias: 1 ponto.
