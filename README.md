@@ -38,4 +38,4 @@ Histórias:
 
 
 
-# As histórias serão entregues de forma sequencial.
+** As histórias serão entregues de forma sequencial. **
