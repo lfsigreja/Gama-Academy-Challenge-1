@@ -20,9 +20,9 @@ COMO FAREMOS?
 
 Sprint 01 (Entrega 01) 1,5 pontos - 01 dia. (15/07)
 
-- Definir histórias: 1 ponto.
-- Eu, Gama Academy, gostaria de ver o repositório no GitHub: 1 ponto.
-- Eu, Gama Academy, gostaria que atividade fosse descrita em sprints no README do projeto: 1 ponto.
+1. Eu, Gama Academy, gostaria de ver o repositório no GitHub: 1 ponto.
+2. Definir histórias: 1 ponto.
+3. Eu, Gama Academy, gostaria que atividade fosse descrita em sprints no README do projeto: 1 ponto.
 
 Sprint 02 (Entrega 02) 12 pontos - 08 dias. (23/07)
 
@@ -35,3 +35,7 @@ Histórias:
 3. Eu, CLIENTE, gostaria de ver mais detalhes de um produto: 03 pontos.
   ACEITE: fotos, descrição, preço, condições de pagamento
 4. Eu, CLIENTE, gostaria de ter uma página institucional "Quem Somos": 01 pontos.
+
+
+
+# As histórias serão entregues de forma sequencial.
