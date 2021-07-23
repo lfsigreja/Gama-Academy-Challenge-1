@@ -88,3 +88,182 @@
 .container.custom-container {
     margin-top: 20px;
   }
+
+.product {
+    color:  #191919;
+    text-decoration: none;
+    padding: 10px
+}
+
+.product:hover {
+    color:#191919; 
+    text-decoration:none; 
+    cursor:pointer;
+}
+
+.filter {
+    display: flex;
+    justify-content: space-around;
+}
+
+.filter button {
+    border: none;
+    background: none;
+    border-bottom: solid;
+    border-color: #ffa94f;
+    transition: 0.2s;
+}
+
+.filter button:hover {
+    transform: scale(1.5); 
+}
+
+.price {
+    display: flex;
+    justify-content: space-around;
+}
+
+.price button {
+    border: solid 1px;
+    background: #ffa94f;
+    font-weight: 700;
+}
+
+.filter button a {
+    color:  #191919;
+    text-decoration: none; 
+}
+
+.showProduct {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 20px;
+    justify-content: center;
+}
+
+.validity {
+    background: red;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    font-weight: 700;
+}
+
+.title {
+    font-weight: 300;
+    margin-top: 10px;
+    color: #aaaaaa;
+}
+
+.price-product {
+    display: flex;
+    justify-content: left;
+    font-weight: 300;
+    margin-top: 10px;
+    color: #aaaaaa;
+    text-decoration: line-through;
+}
+
+.price-product-span {
+    font-weight: 700;
+    color: #191919;
+    font-size: 20px;
+}
+
+.beername {
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.addCart {
+    border-radius: 5px;
+    border: none;
+    background: #ffa94f;
+    color: white;
+    font-weight: 700;
+    font-size: 20px;
+    width: 300px;
+    margin-bottom: 20px;
+}
+
+.addCart img {
+    width: 20px;
+    height: 20px;
+    filter: brightness(0) invert(1);
+}
+
+.postalCode input {
+    border: solid 1px;
+    padding: 5px;
+}
+
+.postalCode button {
+    border-radius: 5px;
+    border: none;
+    background: #ffa94f;
+    color: white;
+}
+
+.share p {
+    margin-top: 5px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.share i {
+    font-size: 30px;
+    margin-right: 20px;
+    filter: invert(76%) sepia(10%) saturate(3597%) hue-rotate(328deg) brightness(107%) contrast(101%);
+}
+
+.about span {
+    margin-top: 5px;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+.about p {
+    margin-top: 5px;
+    font-weight: 300;
+    font-size: 15px;
+}
+
+.moreAbout p {
+    margin-top: 5px;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.moreAbout span {
+    font-weight: 300;
+}
+
+.footer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    background: #191919;
+}
+
+.footer-container a {
+    margin: 20px;
+    color: white;
+}
+
+.about-us-container {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    margin: 10px;
+    padding: 5px;
+    border: solid 1px;
+    background: #ffa94f;
+}
+
+.about-us-container img {
+    margin: 10px;
+}
+.about-us-container p {
+    padding: 10px;
+}
+
